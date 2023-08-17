@@ -292,7 +292,7 @@ var totalSnacks = yearsRemaining * 365 * amountOfSnackPerDay;
 
 // Output the result
 
-document.write("<br><br>Favourite Snack: " + favoriteSnack + "<br>Current Age: " + currentAge + "<br>Maximum Age: " + maximumAge + "<br>Amount Of Snacks Per Day: " + amountOfSnackPerDay + "<br><br>You will need " + totalSnacks + " " + favoriteSnack + " to last you until the ripe old age of " + maximumAge + ".")
+document.write("<br><br>FINISH Favourite Snack: " + favoriteSnack + "<br>Current Age: " + currentAge + "<br>Maximum Age: " + maximumAge + "<br>Amount Of Snacks Per Day: " + amountOfSnackPerDay + "<br><br>You will need " + totalSnacks + " " + favoriteSnack + " to last you until the ripe old age of " + maximumAge + ".")
 // document.write("<br><br>Favourite Snack: " + favoriteSnack)
 // document.write("<br>Current Age: " + currentAge)
 // document.write("<br>Maximum Age: " + maximumAge)
